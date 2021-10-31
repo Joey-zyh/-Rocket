@@ -1,0 +1,16 @@
+C:\Users\Administrator.P9NWT1WNJSTXGRN\source\repos\火箭入轨参数计算\bin\Debug\netcoreapp3.1\火箭入轨参数计算.exe
+C:\Users\Administrator.P9NWT1WNJSTXGRN\source\repos\火箭入轨参数计算\bin\Debug\netcoreapp3.1\火箭入轨参数计算.deps.json
+C:\Users\Administrator.P9NWT1WNJSTXGRN\source\repos\火箭入轨参数计算\bin\Debug\netcoreapp3.1\火箭入轨参数计算.runtimeconfig.json
+C:\Users\Administrator.P9NWT1WNJSTXGRN\source\repos\火箭入轨参数计算\bin\Debug\netcoreapp3.1\火箭入轨参数计算.runtimeconfig.dev.json
+C:\Users\Administrator.P9NWT1WNJSTXGRN\source\repos\火箭入轨参数计算\bin\Debug\netcoreapp3.1\火箭入轨参数计算.dll
+C:\Users\Administrator.P9NWT1WNJSTXGRN\source\repos\火箭入轨参数计算\bin\Debug\netcoreapp3.1\火箭入轨参数计算.pdb
+C:\Users\Administrator.P9NWT1WNJSTXGRN\source\repos\火箭入轨参数计算\obj\Debug\netcoreapp3.1\火箭入轨参数计算.csproj.AssemblyReference.cache
+C:\Users\Administrator.P9NWT1WNJSTXGRN\source\repos\火箭入轨参数计算\obj\Debug\netcoreapp3.1\火箭入轨参数计算.Form1.resources
+C:\Users\Administrator.P9NWT1WNJSTXGRN\source\repos\火箭入轨参数计算\obj\Debug\netcoreapp3.1\火箭入轨参数计算.csproj.GenerateResource.cache
+C:\Users\Administrator.P9NWT1WNJSTXGRN\source\repos\火箭入轨参数计算\obj\Debug\netcoreapp3.1\火箭入轨参数计算.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator.P9NWT1WNJSTXGRN\source\repos\火箭入轨参数计算\obj\Debug\netcoreapp3.1\火箭入轨参数计算.AssemblyInfoInputs.cache
+C:\Users\Administrator.P9NWT1WNJSTXGRN\source\repos\火箭入轨参数计算\obj\Debug\netcoreapp3.1\火箭入轨参数计算.AssemblyInfo.cs
+C:\Users\Administrator.P9NWT1WNJSTXGRN\source\repos\火箭入轨参数计算\obj\Debug\netcoreapp3.1\火箭入轨参数计算.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.P9NWT1WNJSTXGRN\source\repos\火箭入轨参数计算\obj\Debug\netcoreapp3.1\火箭入轨参数计算.dll
+C:\Users\Administrator.P9NWT1WNJSTXGRN\source\repos\火箭入轨参数计算\obj\Debug\netcoreapp3.1\火箭入轨参数计算.pdb
+C:\Users\Administrator.P9NWT1WNJSTXGRN\source\repos\火箭入轨参数计算\obj\Debug\netcoreapp3.1\火箭入轨参数计算.genruntimeconfig.cache
